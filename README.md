@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ATM Management System 🏧
 
 ## 📌 Project Description
@@ -57,3 +58,6 @@ Welcome To The ATM!
 
 ## 👨‍💻 Author
 Python Beginner Project
+=======
+# ATM-Project
+>>>>>>> 9a375899b99c5d0fd38704062cbef0cdba5c3d5c
